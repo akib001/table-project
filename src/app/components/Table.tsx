@@ -1,8 +1,8 @@
 "use client";
 
 import React from "react";
-import FilterButton from "./ui/FilterButton";
 import { Button } from "./ui/Button";
+import FilterButton from "./ui/FilterButton";
 import { PlusIcon } from "./ui/icons/plus-icon";
 
 const Table = () => {
@@ -167,7 +167,7 @@ const Table = () => {
               Singer
             </td>
             <td className="whitespace-nowrap px-4 py-2 text-gray-700">
-              $20,000
+              $20,001
             </td>
           </tr>
         </tbody>
